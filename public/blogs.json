@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/M7xvJnK/tzu3-3ufh-210409.jpg",
+    "course_reg_name": "Course A",
+    "credit": 3,
+    "price": 49,
+    "details": "Introduction to Programming Web Development Fundamentals"
+  },
+  {
+    "id" : 2,
+    "img": "https://i.ibb.co/M7xvJnK/tzu3-3ufh-210409.jpg",
+    "course_reg_name": "Course B",
+    "credit": 4,
+    "price": 59,
+    "details": "Web Development Fundamentals Web Development Fundamentals",
+    "link": "https://example.com/courseB"
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/M7xvJnK/tzu3-3ufh-210409.jpg",
+    "course_reg_name": "Course C",
+    "credit": 5,
+    "price": 69,
+    "details": "Machine Learning Basics Web Development Fundamentals",
+    "link": "https://example.com/courseC"
+  },
+  {
+    "id" : 4,
+    "img": "https://i.ibb.co/M7xvJnK/tzu3-3ufh-210409.jpg",
+    "course_reg_name": "Course D",
+    "credit": 3,
+    "price": 49,
+    "details": "Graphic Design Essentials Web Development Fundamentals",
+    "link": "https://example.com/courseD"
+  },
+  {
+    "id" : 5,
+    "img": "https://i.ibb.co/M7xvJnK/tzu3-3ufh-210409.jpg",
+    "course_reg_name": "Course E",
+    "credit": 4,
+    "price": 59,
+    "details": "Mobile App Development Web Development Fundamentals",
+    "link": "https://example.com/courseE"
+  },
+  {
+    "id" : 6,
+    "img": "https://i.ibb.co/M7xvJnK/tzu3-3ufh-210409.jpg",
+    "course_reg_name": "Course F",
+    "credit": 5,
+    "price": 69,
+    "details": "Data Science Fundamentals Web Development Fundamentals",
+    "link": "https://example.com/courseF"
+  },
+  {
+    "id" : 7,
+    "img": "https://i.ibb.co/M7xvJnK/tzu3-3ufh-210409.jpg",
+    "course_reg_name": "Course G",
+    "credit": 3,
+    "price": 49,
+    "details": "Business Management Principles Web Development Fundamentals",
+    "link": "https://example.com/courseG"
+  },
+  {
+    "id" : 8,
+    "img": "https://i.ibb.co/M7xvJnK/tzu3-3ufh-210409.jpg",
+    "course_reg_name": "Course H",
+    "credit": 4,
+    "price": 98,
+    "details": "Photography Essentials Web Development Fundamentals",
+    "link": "https://example.com/courseH"
+  },
+  {
+    "id" : 9,
+    "img": "https://i.ibb.co/M7xvJnK/tzu3-3ufh-210409.jpg",
+    "course_reg_name": "Course I",
+    "credit": 5,
+    "price": 69,
+    "details": "Artificial Intelligence Applications Web Development Fundamentals",
+    "link": "https://example.com/courseI"
+  }
+]
